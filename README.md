@@ -74,13 +74,13 @@ Hybrid-Boosted Model	5.72%	6.99%
 Clone the repository:
 
 bash
-Copy code
-git clone https://github.com/username/5g-optimization.git
+Copy code :
+git clone (https://github.com/DID-85/5G_Project/tree/main).git
 **cd 5g-optimization
 **Install dependencies:
 
 bash
-Copy code
+Copy code :
 pip install -r requirements.txt
 **Run the Jupyter notebook:
 
